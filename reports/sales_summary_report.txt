@@ -1,0 +1,14 @@
+==========================================
+          ANNUAL SALES REPORT             
+==========================================
+
+Total Revenue Generated:  $7,150
+Total Orders Processed:   15
+Average Order Value:      $476.67
+------------------------------------------
+Top-Selling Product:      Laptop ($4,800)
+Top-Performing Region:    North Region ($3,070)
+
+==========================================
+Report generated automatically via Python.
+==========================================
